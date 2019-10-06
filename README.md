@@ -1,5 +1,4 @@
-#MSP Motor Testing Electronics Guide
-
+# Motor Research Test Equipment
 There are two main sensors used in motor testing, a load cell and a pressure transducer. The load cell measures the force of the motor and the pressure transducer measures the chamber pressure. With these two sets of data, the fuel can be correctly characterized which is vital to creating your own motors. This guide goes through how the current system works and how to calibrate and hook it up.
 
 Load Cell	3
