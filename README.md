@@ -33,6 +33,7 @@ Pressure Transducer
 - [ ] Pressure transducer attached to motor and wired to DATAQ according to wiring diagram.
 - [ ] DATAQ is wired to laptop usb port.
 - [ ] Laptop running Windaq has the correct sensor profile open and has started to record data.
+
 Load Cell
 - [ ] Load cell calibration checked (calibration cannot be done on-site).
 - [ ] Load cell securely attached to rocket motor test stand.
@@ -40,6 +41,7 @@ Load Cell
 - [ ] Load cell amplifier wired to arduino according to wiring diagram
 - [ ] SD card checked to make sure it is collecting data by turning arduino on and then checking sd card in computer.
 - [ ] Arduino connected to laptop usb port.
+
 General
 - [ ] Electronics are in a safe location relative to rocket motor.
 - [ ] All personel are a safe distance away from rocket motor test.
